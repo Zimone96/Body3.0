@@ -152,6 +152,7 @@ body {
 }
  .about-section {
   background-color: #0b0b0b; /* Deep "Athletic" Black */
+  font-family: "Orbitron", sans-serif;
   color: #ffffff;
   padding: 100px 5%;
   width: 100%;
@@ -173,7 +174,7 @@ body {
 }
 
 .section-title {
-  font-family: 'Teko', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3.5rem;
   font-style: italic;
   text-transform: uppercase;
@@ -182,6 +183,7 @@ body {
 
 .section-title span {
   color: #FFD700; /* Matching the Yellow in your logo */
+  font-family: "Orbitron", sans-serif;
 }
 
 .accent-text {
